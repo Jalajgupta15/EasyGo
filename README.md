@@ -1,4 +1,4 @@
-#EasyGo - Travel Mode Predictor
+# EasyGo - Travel Mode Predictor
 
 Travel Mode Predictor is a web application that helps users decide the most suitable mode of transport based on real-time weather conditions. The application provides travel recommendations by analyzing temperature and precipitation data.
 
